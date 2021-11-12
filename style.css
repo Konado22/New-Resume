@@ -2,8 +2,10 @@
     font-size: 16px;
     font-family: monospace;
     background-color: lightgray;
+    color: black;
     margin: 0px;
     box-sizing: border-box;
+    
 }
 .bannerstuff{
     background-color: blue;
@@ -40,3 +42,12 @@
     justify-content: space-around;
 
 }
+.images{
+    max-width: 50%;
+    max-height: 50%;
+}
+h6 {
+    color: black;
+}
+
+
