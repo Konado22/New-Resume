@@ -96,3 +96,8 @@
     }
 
 }
+.card-link h5{
+    display: flex;
+    justify-content: left;
+    padding-right: 100px;
+}
