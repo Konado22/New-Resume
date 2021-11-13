@@ -99,5 +99,8 @@
 .card-link h5{
     display: flex;
     justify-content: left;
-    padding-right: 100px;
+    padding-right: 30%;
+    padding-left: 0%;
+    margin-left: 0%;
+    margin-right:0%
 }
