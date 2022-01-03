@@ -1,7 +1,6 @@
 * {
     font-size: 16px;
     font-family: monospace;
-    background-color: lightgray;
     color: black;
     margin: 0px;
     box-sizing: border-box;
@@ -28,7 +27,7 @@
     font-weight: bolder;
     font-size: 40px;
     /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
-    background-color: blue;
+    /* background-color: blue; */
 }
 
 .navbar {
@@ -41,7 +40,7 @@
 }
 
 .bannerstuff ul li a:hover {
-    background-color: lightgray;
+    background-color: darkgray;
     box-shadow: 5px 5px 5px 5px black;
     border: solid 5px lightgray;
     color: black;
