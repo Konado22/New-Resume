@@ -41,9 +41,9 @@
 }
 
 .bannerstuff ul li a:hover {
-    background-color: darkgray;
+    background-color: teal;
     box-shadow: 5px 5px 5px 5px black;
-    border: solid 5px lightgray;
+    border: solid 5px darkgray;
     color: black;
     cursor: grab;
 }
